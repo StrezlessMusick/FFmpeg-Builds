@@ -1,4 +1,4 @@
-FROM ubuntu:23.04
+FROM ubuntu:mantic-20231011
 
 ENV FFBUILD_DLDIR="/opt/ffdl"
 
